@@ -1,0 +1,17 @@
+Project Team Members:Bharath Baddi, Keerthana Reddy Katta
+Enter score you got for 100 marks in Homework 1: 98
+Enter score you got for 100 marks in Homework 2: 97
+Enter score you got for 100 marks in Homework 3: 96
+Enter score you got for 100 marks in Homework 4: 95
+Enter score you got for 100 marks in Homework 5: 94
+Enter score you got for 100 marks in Homework 6: 93
+Enter score you got for 100 marks in Quiz 1: 97
+Enter score you got for 100 marks in Quiz 2: 96
+Enter score you got for 100 marks in Quiz 3: 95
+Enter score you got for 100 marks in Quiz 4: 94
+Enter score you got for 100 marks in Quiz 5: 98
+Enter score you got for 100 marks in Mid-Term Exam: 95
+Enter score you got for 100 marks in Final Exam: 98
+Enter score you got for 100 marks in Project: 97
+Course Final Grade: 96.525
+The corresponding letter grade is: A+
